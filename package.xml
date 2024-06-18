@@ -1,6 +1,6 @@
 <package format="2">
   <name>hpp-bin-picking</name>
-  <version>1.0.0</version>
+  <version>1.0.1</version>
   <description>Package for HPP and bin picking</description>
   <maintainer email="florent.lamiraux@laas.fr">Florent Lamiraux</maintainer>
   <license>BSD-2-Clause license</license>
